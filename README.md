@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @Sandeepmaharajan
-- 👀 I’m interested in IoC hunting 
-- 🌱 I’m currently learning attacking strategies 
-- 📫 How to reach me sandeepmaharajan69@gmail.com
-- 😄 Pronouns: san-deep
-- ⚡ Fun fact: I am super good
--   CISAI main
--   LOC hunter of India
--   Best LoC hunter award winner 2023-24
 
-<!---
-Sandeepmaharajan/Sandeepmaharajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 ഹായ്, ഞാൻ @സന്ദീപ്മഹാരാജൻ
+    👀 എനിക്ക് IoC വേട്ടയിൽ താൽപ്പര്യമുണ്ട്
+    🌱 ഞാൻ ഇപ്പോൾ ആക്രമണ തന്ത്രങ്ങൾ പഠിക്കുകയാണ്
+    📫 എന്നെ എങ്ങനെ ബന്ധപ്പെടാം sandeepmaharajan69@gmail.com
+    😄 സർവ്വനാമങ്ങൾ: san-deep
+    ⚡ രസകരമായ വസ്തുത: ഞാൻ വളരെ നല്ലവനാണ്
+    CISAI പ്രധാന
+    ഇന്ത്യയുടെ LOC വേട്ടക്കാരൻ
+    2023-24 ലെ മികച്ച LoC ഹണ്ടർ അവാർഡ് ജേതാവ്
+
